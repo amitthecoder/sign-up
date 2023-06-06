@@ -2,7 +2,9 @@
 
 ![Demo](https://raw.githubusercontent.com/amitthecoder/sign-up/main/screenshot.jpg "Demo")
 
-'''xml
+## XML Code
+
+```xml 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -107,4 +109,4 @@
         android:backgroundTint="@color/black"/>
 
 </LinearLayout>
-'''
+```
